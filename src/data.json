@@ -1,0 +1,63 @@
+[
+    {
+        "_id":"1",
+        "questionText" : "Working at your desk, you've received an email from Microsoft explaining that your password it out of date, and you must set a new one.  The link within the email will guide you through it.  Your next step is?",
+        "answerOptions": [
+            { "answerText": "Follow the link and reset your password", "isCorrect": false },
+            { "answerText": "Reset your password manually", "isCorrect": false },
+            { "answerText": "Ignore the email and delete it", "isCorrect": true },
+            { "answerText": "ask a colleague", "isCorrect": false }
+        ]
+    },
+    {
+        "_id":"2",
+        "questionText" : "You're just leaving your office for the day, when you stumble upon a USB stick on the floor.  What do you do?",
+        "answerOptions": [
+            { "answerText": "Pick it up and plug it in to try and find an indication of whom it belongs to, so you can return it.", "isCorrect": false },
+            { "answerText": "Leave it where it is. It's not your problem.", "isCorrect": false },
+            { "answerText": "Hand it into reception for them to deal with.", "isCorrect": true },
+            { "answerText": "Take it home and use it.", "isCorrect": false }
+        ]
+    },
+    {
+        "_id":"3",
+        "questionText" : "Your computer has just been infected with Ransomware and the hacker is demanding £1,000 before releasing it.  What do you do?",
+        "answerOptions": [
+            { "answerText": "Send an email to the IT guy in the office.", "isCorrect": false },
+            { "answerText": "Disconnect your computer from the network.", "isCorrect": true },
+            { "answerText": "Pay the ransom. You need your files back!", "isCorrect": false },
+            { "answerText": "try your best to get rid of it before anyone finds out", "isCorrect": false }
+        ]
+    },
+    {
+        "_id":"4",
+        "questionText" : "Great news!  Your computer is now clear of Ransomware and you're ready to start working again.  What will you do first?",
+        "answerOptions": [
+            { "answerText": "Backup the data as soon as you can.", "isCorrect": true },
+            { "answerText": "Continue working as normal.", "isCorrect": false },
+            { "answerText": "Reinstall the USB stick, as you still don't know who it belongs to.", "isCorrect": false },
+            { "answerText": "Nothing, it's been dealt with.", "isCorrect": false }
+        ]
+    },
+    {
+        "_id":"5",
+        "questionText" : "After all those issues, you've finally left the office.  On your way home, you've noticed you've left your mobile on the train?  What do you do?",
+        "answerOptions": [
+            { "answerText": "Call the train line to find out if anyone has handed it in.", "isCorrect": false },
+            { "answerText": "Call your phone to make arrangements to meet the person who found it.", "isCorrect": false },
+            { "answerText": "Remotely disable it as soon as possible.", "isCorrect": true },
+            { "answerText": "Call the phone network to advise them.", "isCorrect": false }
+        ]
+    },
+    {
+        "_id":"6",
+        "questionText" : "After a long and hard day, you decide to relax and purchase some concert tickets online.  Alas, the website doesn't seem to be working as you cannot get through, which is often the case.  This is commonly the result of a - ",
+        "answerOptions": [
+            { "answerText": "Malware Attack.", "isCorrect": false },
+            { "answerText": "DDoS Attack.", "isCorrect": true },
+            { "answerText": "Spear-Phishing Attack.", "isCorrect": false },
+            { "answerText": "Ransomware Attack.", "isCorrect": false }
+        ]
+    }
+]
+ 
